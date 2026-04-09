@@ -1,0 +1,171 @@
+[
+    {
+        "name": "s1-brdr1",
+        "test": "VerifyCPUUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the CPU utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high CPU utilization -  Expected: < 75% Actual: 75.4%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-brdr1",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 82.90%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-brdr2",
+        "test": "VerifyCPUUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the CPU utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high CPU utilization -  Expected: < 75% Actual: 90.5%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-brdr2",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 82.84%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-leaf1",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 82.44%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-leaf2",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 82.39%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-leaf3",
+        "test": "VerifyCPUUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the CPU utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high CPU utilization -  Expected: < 75% Actual: 84.3%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-leaf3",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 82.99%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-leaf4",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 82.64%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-spine1",
+        "test": "VerifyCPUUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the CPU utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high CPU utilization -  Expected: < 75% Actual: 87.2%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-spine1",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 83.00%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-spine2",
+        "test": "VerifyCPUUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the CPU utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high CPU utilization -  Expected: < 75% Actual: 89.9%"
+        ],
+        "custom_field": null
+    },
+    {
+        "name": "s1-spine2",
+        "test": "VerifyMemoryUtilization",
+        "categories": [
+            "system"
+        ],
+        "description": "Verifies whether the memory utilization is below 75%.",
+        "result": "failure",
+        "messages": [
+            "Device has reported a high memory usage - Expected: < 75% Actual: 82.84%"
+        ],
+        "custom_field": null
+    }
+]

@@ -1,0 +1,14 @@
+Device,Test Name,Test Status,Message(s),Test description,Test category
+s1-brdr1,VerifyCPUUtilization,failure,Device has reported a high CPU utilization -  Expected: < 75% Actual: 75.4%,Verifies whether the CPU utilization is below 75%.,System
+s1-brdr1,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 82.90%,Verifies whether the memory utilization is below 75%.,System
+s1-brdr2,VerifyCPUUtilization,failure,Device has reported a high CPU utilization -  Expected: < 75% Actual: 90.5%,Verifies whether the CPU utilization is below 75%.,System
+s1-brdr2,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 82.84%,Verifies whether the memory utilization is below 75%.,System
+s1-leaf1,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 82.44%,Verifies whether the memory utilization is below 75%.,System
+s1-leaf2,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 82.39%,Verifies whether the memory utilization is below 75%.,System
+s1-leaf3,VerifyCPUUtilization,failure,Device has reported a high CPU utilization -  Expected: < 75% Actual: 84.3%,Verifies whether the CPU utilization is below 75%.,System
+s1-leaf3,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 82.99%,Verifies whether the memory utilization is below 75%.,System
+s1-leaf4,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 82.64%,Verifies whether the memory utilization is below 75%.,System
+s1-spine1,VerifyCPUUtilization,failure,Device has reported a high CPU utilization -  Expected: < 75% Actual: 87.2%,Verifies whether the CPU utilization is below 75%.,System
+s1-spine1,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 83.00%,Verifies whether the memory utilization is below 75%.,System
+s1-spine2,VerifyCPUUtilization,failure,Device has reported a high CPU utilization -  Expected: < 75% Actual: 89.9%,Verifies whether the CPU utilization is below 75%.,System
+s1-spine2,VerifyMemoryUtilization,failure,Device has reported a high memory usage - Expected: < 75% Actual: 82.84%,Verifies whether the memory utilization is below 75%.,System

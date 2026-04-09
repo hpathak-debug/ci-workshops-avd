@@ -12,3 +12,4 @@
       vars:
         avd_catalogs_filters:
           - skip_tests: [VerifyMemoryUtilization, VerifyLoggingErrors]
+        anta_report_hide_statuses: [success, skipped]
